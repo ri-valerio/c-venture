@@ -1,2 +1,1 @@
-# c-venture
-:rocket:
+# c-venture :rocket:
